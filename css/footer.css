@@ -1,0 +1,22 @@
+
+footer .social-sharing{
+    margin-top: 30px;;
+}
+footer{
+    background-color: var(--body_color);
+}
+footer .subitem{
+padding-right: 30px;
+}
+footer .copy-right-main {
+    border-top: 1px solid var(--primary_color);
+    padding: 20px 0;
+    margin-top: 40px;
+}
+footer .contact-icons i{
+    margin-right: 10px;
+
+}
+footer a:hover{
+    color: var(--secondary_color);
+}
